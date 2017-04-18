@@ -88,3 +88,6 @@ Note:
 Make sure the program takes in the files in the same order as in the example. log file first and query file second.
 Your program will be evaluated on the following criteria in order: correctness, clean and modular code, test cases, time taken to run, and the memory required.
 If your code needs external dependencies, make sure to track them in the requirements.txt file. Also have a README file if there are any special instructions to make your program run.
+
+
+http://codehangar.io/smiple-log-and-file-processing-in-python/
