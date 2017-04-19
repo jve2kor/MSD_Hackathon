@@ -91,3 +91,5 @@ If your code needs external dependencies, make sure to track them in the require
 
 
 http://codehangar.io/smiple-log-and-file-processing-in-python/
+
+https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
